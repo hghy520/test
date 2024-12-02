@@ -4,7 +4,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace awaitasync1
+namespace awaitasync2
 {
     class Program
     {
